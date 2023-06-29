@@ -112,6 +112,10 @@ layout: center
 
 # Demo project & coding
 
+<center>
+  <a href="www.qr-code-generator.com/free-generator/?gclid=EAIaIQobChMIgNLHhsXn_wIVGNd3Ch25CQgpEAAYAiAAEgLaJPD_BwE&campaignid=9865629596&adgroupid=101327413838&cpid=0a31469f-6bd0-45cf-95c7-3455ec1767f4&gad=1"></a><img src="https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fgithub.com%2Fedwardpopescu%2Fspring-boot-performance-workshop%2Ftree%2Fmain&chs=180x180&choe=UTF-8&chld=L|2">
+</center>
+
 ---
 hideInToc: true
 ---
