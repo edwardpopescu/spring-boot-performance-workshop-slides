@@ -213,6 +213,6 @@ Resources
 
 [Project on Github](https://github.com/edwardpopescu/spring-boot-performance-workshop)
 
-[Presentation on Github](https://github.com/edwardpopescu/spring-boot-performance-workshop-slides)
-
 [Presentation powered by Slidev](https://sli.dev)
+
+<a href="www.qr-code-generator.com/free-generator/?gclid=Cj0KCQjw1_SkBhDwARIsANbGpFtMtOWWhMf5jF90AwolqzVGx7Oz8G5CpB1lzU2H0qZQw0ZeVsEGl5caAiVUEALw_wcB&campaignid=9725198318&adgroupid=99974822872&cpid=8794173e-3373-43ee-aae4-c99e709be5f8&gad=1" border="0" style="cursor:default" rel="nofollow" float=right></a><img src="https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fgithub.com%2Fedwardpopescu%2Fspring-boot-performance-workshop-slides&chs=180x180&choe=UTF-8&chld=L|2">
